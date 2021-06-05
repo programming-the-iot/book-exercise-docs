@@ -1,4 +1,4 @@
-# About book-exercise-docs
+# Programming the IoT - Book Exercise Docs
 
 If you're a student of Connected Devices, clone this repository so you can capture the documentation artifacts
 for each Lab Module exercise you'll implement as part of this course.
