@@ -5,7 +5,7 @@
 
 ### REQUIRED for Connected Devices Course
 
-- [ ] [PIOT-CFG-08-001](https://github.com/programming-the-iot/book-exercise-tasks/issues/82)
+- [ ] [PIOT-CFG-08-002](https://github.com/programming-the-iot/book-exercise-tasks/issues/153)
 - [ ] [PIOT-CDA-08-000](https://github.com/programming-the-iot/book-exercise-tasks/issues/146)
 - [ ] [PIOT-CDA-08-001](https://github.com/programming-the-iot/book-exercise-tasks/issues/144)
 - [ ] [PIOT-CDA-08-002](https://github.com/programming-the-iot/book-exercise-tasks/issues/148)
