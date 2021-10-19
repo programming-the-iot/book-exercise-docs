@@ -23,7 +23,7 @@ If you're reading this Markdown page, you may be asking yourself, "do I need to 
   - You're reading [Programming the Internet of Things](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/), it's completely up to you.
   - Neither of the above apply to you, it's completely up to you.
 
-# Links, Exercises, Updates, Errata, and Clarifications
+## Links, Exercises, Updates, Errata, and Clarifications
 
 Please see the following links to access exercises, errata / clarifications, and the e-book:
  - [Programming the IoT Kanban Board](https://github.com/orgs/programming-the-iot/projects/1)
