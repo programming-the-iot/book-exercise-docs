@@ -23,6 +23,7 @@ URL:
 NOTE: Include one or more UML designs representing your solution. It's expected each
 diagram you provide will look similar to, but not the same as, its counterpart in the
 book [Programming the IoT](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/).
+![image](https://user-images.githubusercontent.com/103839764/228383208-82158c21-cb31-4194-abc5-c038b38ba518.png)
 
 
 ### Unit Tests Executed
@@ -30,8 +31,8 @@ book [Programming the IoT](https://learning.oreilly.com/library/view/programming
 NOTE: TA's will execute your unit tests. You only need to list each test case below
 (e.g. ConfigUtilTest, DataUtilTest, etc). Be sure to include all previous tests, too,
 since you need to ensure you haven't introduced regressions.
-
-- 
+- ./src/test/python/programmingtheiot/part01/unit
+- ./src/test/python/programmingtheiot/part02/unit
 - 
 - 
 
@@ -41,8 +42,8 @@ NOTE: TA's will execute most of your integration tests using their own environme
 some exceptions (such as your cloud connectivity tests). In such cases, they'll review
 your code to ensure it's correct. As for the tests you execute, you only need to list each
 test case below (e.g. SensorSimAdapterManagerTest, DeviceDataManagerTest, etc.)
-
-- 
+- ./src/test/python/programmingtheiot/part03/integration/MqttClientConnectorTest
+-
 - 
 - 
 
