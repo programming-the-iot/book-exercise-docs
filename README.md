@@ -36,18 +36,18 @@ You can review the specific exercises for each Lab Module using the Kanban proje
 [Programming the IoT Kanban Board](https://github.com/orgs/programming-the-iot/projects/1)
 
 Here's the breakdown of each: 
-  - [Lab Module 01: Setup](https://github.com/orgs/programming-the-iot/projects/1#column-9974937)
-  - [Lab Module 02: Create Initial Apps](https://github.com/orgs/programming-the-iot/projects/1#column-9974938)
-  - [Lab Module 03: Data Simulation](https://github.com/orgs/programming-the-iot/projects/1#column-10488379)
-  - [Lab Module 04: Hardware Emulation](https://github.com/orgs/programming-the-iot/projects/1#column-10488386)
-  - [Lab Module 05: Data Management](https://github.com/orgs/programming-the-iot/projects/1#column-10488421)
-  - [Lab Module 06: MQTT Client - CDA](https://github.com/orgs/programming-the-iot/projects/1#column-10488434)
-  - [Lab Module 07: MQTT Client - GDA](https://github.com/orgs/programming-the-iot/projects/1#column-10488499)
-  - [Lab Module 08: CoAP Server](https://github.com/orgs/programming-the-iot/projects/1#column-10488501)
-  - [Lab Module 09: CoAP Clients](https://github.com/orgs/programming-the-iot/projects/1#column-10488503)
-  - [Lab Module 10: Edge Integration](https://github.com/orgs/programming-the-iot/projects/1#column-10488510)
-  - [Lab Module 11: Cloud Integration](https://github.com/orgs/programming-the-iot/projects/1#column-10488514)
-  - [Lab Module 12: Semester Project](https://github.com/orgs/programming-the-iot/projects/1#column-10488565)
+  - [Lab Module 01: Setup](https://github.com/programming-the-iot/book-exercise-tasks/issues/167)
+  - [Lab Module 02: Create Initial Apps](https://github.com/programming-the-iot/book-exercise-tasks/issues/202)
+  - [Lab Module 03: Data Simulation](https://github.com/programming-the-iot/book-exercise-tasks/issues/170)
+  - [Lab Module 04: Hardware Emulation](https://github.com/programming-the-iot/book-exercise-tasks/issues/172)
+  - [Lab Module 05: Data Management](https://github.com/programming-the-iot/book-exercise-tasks/issues/174)
+  - [Lab Module 06: MQTT Client - CDA](https://github.com/programming-the-iot/book-exercise-tasks/issues/177)
+  - [Lab Module 07: MQTT Client - GDA](https://github.com/programming-the-iot/book-exercise-tasks/issues/180)
+  - [Lab Module 08: CoAP Server](https://github.com/programming-the-iot/book-exercise-tasks/issues/183)
+  - [Lab Module 09: CoAP Clients](https://github.com/programming-the-iot/book-exercise-tasks/issues/186)
+  - [Lab Module 10: Edge Integration](https://github.com/programming-the-iot/book-exercise-tasks/issues/189)
+  - [Lab Module 11: Cloud Integration](https://github.com/programming-the-iot/book-exercise-tasks/issues/193)
+  - [Lab Module 12: Semester Project](https://github.com/programming-the-iot/book-exercise-tasks/issues/195)
   
 # Other Things to Know
 
@@ -63,12 +63,12 @@ Much of the tasks and issues representing requirements within this repository wi
 
 *This README.md File - Usage and License*
 
- - The following files are &copy; 2020 - 2022 by [Andrew D. King](https://andyking.me)</a> and licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/ " target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0 <img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>
+ - The following files are &copy; 2020 - 2024 by [Andrew D. King](https://andyking.me)</a> and licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/ " target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0 <img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>
    - README.md
 
 *All {prefix}-CHECKLIST.md and Additional README-{postfix}.md Files - Usage and License*
 
- - The following template files are &copy; 2020 - 2022 by [Andrew D. King](https://andyking.me)</a> and licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0 <img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a>
+ - The following template files are &copy; 2020 - 2024 by [Andrew D. King](https://andyking.me)</a> and licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0 <img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img height="24" style="!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a>
    - CDA-REQ-CHECKLIST.md
    - GDA-REQ-CHECKLIST.md
    - CSF-REQ-CHECKLIST.md
